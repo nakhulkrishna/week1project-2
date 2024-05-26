@@ -1,0 +1,270 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+.header{
+    height: 100vh;
+    width: 100%;
+    background-image:url(image/pic5.jpg) ;
+    background-position:center ;
+    background-size: cover;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 40px;
+    padding-left: 10%;
+    padding-right:10% ;
+}
+.logo{
+    margin-right: 50px;
+    padding-bottom: 20px;
+    width: 230px;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 20px;
+    margin-right: 10px;
+}
+nav ul li a{
+    font-size: x-small;
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+    
+}
+
+.shop{
+    font-size: x-small;
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+}
+.maintext{
+    padding-top: 350px;
+    margin-left: 60px;
+font-weight: bolder;
+font-size: 30px;
+color: white;
+}
+.maintext .light{
+    font-weight: lighter;
+    font-size: 20px;
+}
+
+.button{
+    margin-top: 10px;
+    margin-left: 63px;
+
+    width: 200px;
+    border: 2px solid white;
+    background-color: transparent;
+        color: black;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    
+}
+
+.button .p{
+    font-weight: bolder;
+    font-size: medium;
+    color: white;
+   
+}
+
+.features{
+    margin-top: 150px;
+width: 100%;
+height: 100vh;
+background-position:center ;
+background-size: cover;
+background-image:url(image/homepic.jpg) ;
+
+}
+.maintext2{
+    padding-top: 508px;
+    margin-left: 60px;
+font-weight: bolder;
+font-size: 30px;
+color: white;
+}
+.maintext2 .light2{
+    font-weight: lighter;
+    font-size: 20px;
+}
+.button2{
+    margin-top: 10px;
+    margin-left: 3px;
+
+    width: 200px;
+    border: 2px solid white;
+    background-color: transparent;
+        color: black;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    
+}
+
+.button .p{
+    font-weight: bolder;
+    font-size: medium;
+    color: white;
+   
+}
+
+.features3{
+    margin-top: 0px;
+width: 100%;
+height: 100vh;
+background-position:center ;
+background-size: cover;
+background-image:url(image/pic2.jpg) ;
+
+}
+.maintext3{
+    padding-top: 508px;
+    margin-left: 60px;
+font-weight: bolder;
+font-size: 30px;
+color: white;
+}
+.maintext3 .light3{
+    font-weight: lighter;
+    font-size: 20px;
+}
+.button3{
+    margin-top: 10px;
+    margin-left: 3px;
+
+    width: 200px;
+    border: 2px solid white;
+    background-color: transparent;
+        color: black;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    
+}
+
+.button3 .p{
+    font-weight: bolder;
+    font-size: medium;
+    color: white;
+   
+}
+
+.features4{
+    margin-top: 0px;
+width: 100%;
+height: 100vh;
+background-position:center ;
+background-size: cover;
+background-image:url(image/pic3.jpg) ;
+
+}
+.maintext4{
+    padding-top: 508px;
+    margin-left: 60px;
+font-weight: bolder;
+font-size: 30px;
+color: white;
+}
+.maintext4 .light4{
+    font-weight: lighter;
+    font-size: 20px;
+}
+.button4{
+    margin-top: 10px;
+    margin-left: 3px;
+
+    width: 200px;
+    border: 2px solid white;
+    background-color: transparent;
+        color: black;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    
+}
+
+.button4 .p{
+    font-weight: bolder;
+    font-size: medium;
+    color: white;
+   
+}
+
+.features5{
+    margin-top: 0px;
+width: 100%;
+height: 100vh;
+background-position:center ;
+background-size: cover;
+background-image:url(image/pic4.jpg) ;
+
+}
+.maintext5{
+    padding-top: 508px;
+    margin-left: 60px;
+font-weight: bolder;
+font-size: 30px;
+color: white;
+}
+.maintext5 .light5{
+    font-weight: lighter;
+    font-size: 20px;
+}
+.button5{
+    margin-top: 10px;
+    margin-left: 3px;
+
+    width: 200px;
+    border: 2px solid white;
+    background-color: transparent;
+        color: black;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    
+}
+
+.button5 .p{
+    font-weight: bolder;
+    font-size: medium;
+    color: white;
+   
+}
+
+footer{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 35px;
+    padding-left: 40%;
+    padding-right:10% ;
+   
+}
+ul li{
+    color: white;
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 20px;
+    padding-bottom: 15px;
+    margin-right: 10px;
+}
+
+ul li a{
+    font-size: x-small;
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+    
+}
